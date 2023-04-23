@@ -1,0 +1,81 @@
+[
+  {
+    "id" : 1,
+    "namecowork" : "Samyan Co-Op",
+    "description" : "Co-Learning Space in a good atmosphere. Sit and enjoy. There are many zones. Plus, it's convenient to travel because it's next to Sam Yan MRT.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://pbs.twimg.com/profile_images/1166308565520248834/mLzTq8Dv_400x400.jpg",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web216.jpg"
+  },
+  {
+    "id" : 2,
+    "namecowork" : "TTA SPACE BY DRAFTBOARD",
+    "description" : "TA Space by DraftBoard, clear atmosphere suitable for changing workplaces Easy to get inspired There are complete facilities. whole corner relax drink bar corner",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://res.cloudinary.com/eddypisit/image/upload/c_fill,h_280,w_548/gfjhoxna8c7apavbpmqy",
+    "image_url" : "https://pintrip.in.th/i/blog/5f1a9hKnnxKSLxMfhStVuoASUNXD3V0EqTVuYYWx.jpeg"
+  },
+  {
+    "id" : 3,
+    "namecowork" : "JUSTCO",
+    "description" : "JustCo is a co-working space based in Singapore. Every proportion of the space is beautiful furniture and pleasant to sit in. Spacious, airy, with proportions in different zones.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://play-lh.googleusercontent.com/ZK81gPFrLV8m4aXVG3tiJgXRBVjzZpJsKqUAYTIYAOuXWwONhB4U9f8IUGak847eR1SS=w240-h480",
+    "image_url" : "https://pintrip.in.th/i/blog/omobRHtmJ0SacDmsYrzC0czOCZtTYfHxGSzIDQLW.jpeg"
+  },{
+    "id" : 4,
+    "namecowork" : "TrueSpace",
+    "description" : "Located in the area of Mahidol University, Salaya",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://p-u.popcdn.net/event_details/covers/000/013/111/og_cover/c57db2186ac3386e619574744d5bfe8bc314016d.png?1654602541",
+    "image_url" : "https://cms.dmpcdn.com/food/2022/01/24/5657b7b0-7cca-11ec-8c56-b759fb36387f_webp_original.jpg"
+  },
+  {
+    "id" : 5,
+    "namecowork" : "NapLap",
+    "description" : "Co-Napping Workspace in yellow, eye-catching design, comfortable atmosphere like at home. Inside the shop, there are many zones to choose from.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/326863373_567247518596158_7991880043604181774_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vPnehT9kLdsAX-bRfoL&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfC2JrjXhVovJFUMa4UhaxnZ3J9idKNxd0YlepF37ei3aw&oe=6449DB93",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web218.jpg"
+  },
+  {
+    "id" : 6,
+    "namecowork" : "Spaces",
+    "description" : "There is a co-working space that can be converted into an event space. Including the workshop as well.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://coworker.imgix.net/photos-corporates/95/corporate_logo.jpg",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web220.jpg"
+  },
+  {
+    "id" : 7,
+    "namecowork" : "Class Cafe (SID)",
+    "description" : "Cafe and Co-Working Space in the heart of Siam Square The shop's style is airy and comfortable. Suitable for reading and working",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-8.fna.fbcdn.net/v/t39.30808-6/303431134_500078805455739_5533713475866140422_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W1PANJceXMoAX-nPois&_nc_ht=scontent.fbkk5-8.fna&oh=00_AfDeSp2W897UNASDoPEBsAHIQynzB56z9FPjZPzea4HcUw&oe=6449A216",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web26-12.jpg"
+  },
+  {
+    "id" : 8,
+    "namecowork" : "Too Fast To Sleep SCB",
+    "description" : "Cafe and Co-Working Space that no matter how late it is. The store is always open and welcoming with 24-hour service.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://static.estopolis.com/article/5982b1b815f02062a0dbd67e_5982d7fe15f02062a0dbd685.jpg",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web25-17.jpg"
+  },
+  {
+    "id" : 9,
+    "namecowork" : "Wolf Co-working Space",
+    "description" : "Interesting Co-Working space for Bangkok residents because there are many types of working rooms Suitable for both group tutoring Group tutoring hold a company meeting or do office.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/327447745_917548172918738_374021565410477114_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=X_vDZKQ4N5gAX_7kEYt&_nc_ht=scontent.fbkk5-7.fna&oh=00_AfBy04BMmdcW0g-5-DiS2d_r2vUrwJvvefezNyQiI3BlLA&oe=644915BB",
+    "image_url" : "https://i.pinimg.com/736x/e1/3a/b1/e13ab1b10aa8d4af91f768fa4fdb545e--wolf.jpg"
+  },
+  {
+    "id" : 10,
+    "namecowork" : "The Rabbit Hub",
+    "description" : "Co-Working space with a lovely atmosphere There are both snacks and drinks for sale. whole zone to work Whether reading a personal book group tutoring or business meeting.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/305288726_607290250901230_7417011751027420935_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eRwWpf5tySoAX_HN14F&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfAY23MX8UcbV1FQTJpdHZcWwH7asFOmCS5kFBUCyCAyog&oe=64492899",
+    "image_url" : "https://venuee.s3-ap-southeast-1.amazonaws.com/2018/08/21/l/405gzp18jl3f7937.jpg"
+  }
+]
