@@ -8,7 +8,7 @@ class RemoteServices {
 
   static Future<List<Coworking>?> fetchCoworking() async {
     var response = await client.get(Uri.parse(
-        'https://raw.githubusercontent.com/6487071-Kotchaporn-Suwannarat/mobile/main/coworking_space.json'));
+        'https://raw.githubusercontent.com/6487071-Kotchaporn-Suwannarat/coworking_space/main/coworking_space.json'));
     if (response.statusCode == 200) {
       var jsonString = response.body;
       return coworkingFromJson(jsonString);
